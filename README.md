@@ -1,6 +1,6 @@
 # {{name}}
 
-WIP - nothing to see here
+{{description}}
 
 ```
 npm install {{name}}
